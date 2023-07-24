@@ -1,1 +1,1 @@
-# code
+ Ouvre(FEN_Vision_Souscription) gsCode_souscription=SAI_Code_Souscription SAI_Nom_Prenom_Locataire=gsNom_prenom_locataire  SAI_Montant_a_payer=gmoMontant_a_payer SAI_Montant_Payer..BorneMax=SAI_Montant_a_payer     	
